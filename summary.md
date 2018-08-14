@@ -8,7 +8,7 @@ Middle High German
 
 **Deliverables**:
 
-- stop word filtering
+- stopword filtering
 
 - tokenizer
 
@@ -73,11 +73,11 @@ Other
 
 - [Levenshtein Automata](https://github.com/cltk/cltk/pull/762)
 
-*Deterministic, Nondeterministic and Levenshtein Automata (along with a spelling corrector). Additional function that allows the conversion of a wordlist to a trie*
+*Deterministic, Nondeterministic and Levenshtein Automata (along with a spelling corrector). Wordlist to trie conversion*
 
 - [Anglo-Saxon/Anglo-Frisian runic transliteration](https://github.com/cltk/cltk/pull/774)
 
-*Anglo-Saxon/Anglo-Frisian runes to latin transliterator*
+*Anglo-Saxon/Anglo-Frisian runes to Latin transliterator*
 
 - [Language Agnostic Syllabifier](https://github.com/cltk/cltk/pull/788)
 
